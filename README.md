@@ -9,8 +9,7 @@
 
 </div>
 
-## Introduction📝
-안녕하세요! 소프트웨어 엔지니어를 꿈꾸는 박은진 입니다.<br/>
+
 <br/>
 <br/>
 ## Stack📚
